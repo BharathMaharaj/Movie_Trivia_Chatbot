@@ -96,26 +96,7 @@ This document outlines the step-by-step process followed to develop the Movie Tr
 - Access Gradio interface at local URL
 - Verify all components work together
 
-### 14. Documentation
-- Create comprehensive README.md
-- Document installation and usage instructions
-- Include troubleshooting guide
 
-## Future Enhancements
 
-### 15. Potential Improvements
-- Add more sophisticated text splitting strategies
-- Implement different retrieval algorithms
-- Expand to multiple PDF sources
-- Add user authentication
-- Integrate with external movie databases
 
-## Lessons Learned
 
-### 16. Development Insights
-- Importance of proper text chunking for RAG performance
-- Value of local LLM models for privacy and cost
-- Benefits of tracing tools like LangSmith for debugging
-- User experience considerations in chatbot design
-
-This coding flow demonstrates a systematic approach to building a RAG chatbot, from initial setup through implementation and testing.
